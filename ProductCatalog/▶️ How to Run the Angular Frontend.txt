@@ -1,0 +1,15 @@
+▶️ How to Run the Angular Frontend
+Unzip the project.
+
+Open the folder in a terminal.
+
+Run:
+
+bash
+Copy
+Edit
+npm install
+ng serve
+Open your browser at: http://localhost:4200
+
+Make sure the Spring Boot backend is also running at http://localhost:8080.
